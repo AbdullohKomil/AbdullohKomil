@@ -4,7 +4,7 @@
 <h3 align="center">A passionate frontend developer from Uzbekistan</h3>
 
 
-<div>
+<div style="display: flex;">
 - 👨‍💻 All of my projects are available at [http://abdullohdevportfolio.netlify.app/](http://abdullohdevportfolio.netlify.app/)
 
 - 💬 Ask me about **react,next and typescript**
