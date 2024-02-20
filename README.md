@@ -1,10 +1,10 @@
-<h1 align="center">Hi 👋, I'm Abdulloh</h1>
-
-
+<h1 align="center">Hi <picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="28" height="28">
+</picture>, I'm Abdulloh</h1>
 <h3 align="center">A passionate frontend developer from Uzbekistan</h3>
 
 
-<div style="display: flex;">
 - 👨‍💻 All of my projects are available at [http://abdullohdevportfolio.netlify.app/](http://abdullohdevportfolio.netlify.app/)
 
 - 💬 Ask me about **react,next and typescript**
@@ -12,9 +12,6 @@
 - 📫 How to reach me **abdullohkomiljonov29@gmail.com**
 
 - 📄 Know about my experiences [https://about-abdulloh-dev.netlify.app/](https://about-abdulloh-dev.netlify.app/)
-
-<img width="100%" height="600px" style="object-fit: contain;" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b3c73274c9259ecf6de8.gif" alt="animated image" />
-</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
