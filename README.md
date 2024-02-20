@@ -2,6 +2,8 @@
 
 <h3 align="center">A passionate frontend developer from Uzbekistan</h3>
 
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b3c73274c9259ecf6de8.gif" alt="animated image" />
+
 - 👨‍💻 All of my projects are available at [http://abdullohdevportfolio.netlify.app/](http://abdullohdevportfolio.netlify.app/)
 
 - 💬 Ask me about **react,next and typescript**
