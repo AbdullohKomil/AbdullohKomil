@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [http://abdullohdevportfolio.netlify.app/](http://abdullohdevportfolio.netlify.app/)
 
-- 💬 Ask me about **react,next and typescript**
+- 💬 Ask me about **javascript and typescript**
 
 - 📫 How to reach me **abdullohkomiljonov29@gmail.com**
 
